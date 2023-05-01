@@ -8,4 +8,4 @@ Get to the end while avoiding all the monsters.
 
 Use space to jump. Or click on the player with your mouse to jump.
 
-# Screenshots
+## Screenshots
